@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 20, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Victoria Landron)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment focused on applying the use of loops and functions that refer back to the HTML file in order to make the application interactive.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://viclandron.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (To use the getElementById() method, a Document object method, to reference elements on a web page using its id value. )
+2. (To associate an event(onclick) with an HTML element and define an event handler, which is the code that will respond to that specific event on the specific element.)
+3. (To use ifstatements, if/else statements, and nested if statements to make decisions)
 
